@@ -1,0 +1,28 @@
+Mandatory commands:
+
+git init
+git remote add origin "paste repo https link"
+
+git pull origin main 
+git status 
+
+git add .
+git status 
+git commmit -m "commit anything"
+git push 
+then copy paste 
+
+### to add or create a new branch 
+git checkout -b "branchname"
+git status 
+git commit -m "commi"
+git push
+
+## To switch branch
+git checkout "branchname to be opened"
+
+#For cloning the codes 
+git clone "copy https url"
+
+
+
