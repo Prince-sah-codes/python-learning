@@ -1,2 +1,5 @@
-print("hello world, lets build my first prgram " \
-"lets calculate arthi,etic stuffs ")
+a = str(input("Enter your first name:"))
+b= str(input("Enter your last name:"))
+print("Hello,",a,"",b+"!"," Welcome to python program")
+
+
