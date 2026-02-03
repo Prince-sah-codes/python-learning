@@ -1,4 +1,4 @@
-# python-learning
+# ASSIGNMENT 1
 Task 1: Perform Basic Mathematical Operations
 Problem Statement: A Python program that does the following:
 1.  Takes two numbers as input from the user.
