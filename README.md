@@ -16,7 +16,9 @@
    
 2.   Uses the math module to calculate the:
 o   Square root of the number
+
 o   Natural logarithm (log base e) of the number
+
 o   Sine of the number (in radians)
 
 4.   Displays the calculated results.
