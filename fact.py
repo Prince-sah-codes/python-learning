@@ -1,14 +1,13 @@
-def fact():
-    fct = 1
-    num = int(input("Enter a number: "))
+
+def fact(num):
     
-    for i in range(num,0,-1):
-       
+    if num == 1:
+        return 1 
+    else:
+        factorial = num * fact(num-1)
+        return factorial 
 
-        fct = fct * i
-    print(f'Factorial of {num} is: {fct}')
+print(f' Factorial  is {fact(4)}')       
 
-
-fact()
 
 
